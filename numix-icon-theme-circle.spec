@@ -2,7 +2,7 @@
 
 Name:		numix-icon-theme-circle
 Version:	14.10
-Release:	1
+Release:	2
 Summary:	%{theme} icon theme
 Group:		Graphical desktop/Other
 
