@@ -7,7 +7,7 @@ Summary:	%{theme} icon theme
 Group:		Graphical desktop/Other
 
 License:	GPL-3
-URL:		http://www.numixproject.org
+URL:		https://www.numixproject.org
 
 Source0:	%{name}-master.tar.gz
 
